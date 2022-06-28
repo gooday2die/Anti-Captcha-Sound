@@ -21,3 +21,11 @@ So, the main idea of solving a captcha came from this **hearing** sounds from ca
 ## How this works!
 Please check [here](https://github.com/gooday2die/Anti-Captcha-Sound/blob/main/github/howthisworks.md) for more information on how this works.
 
+## Dependencies
+- pandas: `pip install pandas`
+- pydub: `pip install pydub`
+- matplotlib: `pip install matplotlib`
+- seaborn: `pip install seaborn`
+- tensorflow: `pip install tensorflow` or GPU version.
+- ffmpeg: `sudo apt-get install ffmpeg`
+- noisereduce: `pip install noisereduce`
