@@ -64,4 +64,6 @@ Yes, I am not a huge fan of ML. So I copied code from [here](https://www.tensorf
 - noise
 
 ### 3. Verifying and testing model
-Test set accuracy was set as 89%. Yay!
+Test set accuracy was set as 89%. Yay! This means each letters have 89% of being recognized correctly.
+
+
